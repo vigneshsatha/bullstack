@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        bullstack
+        VigneshKumar
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
